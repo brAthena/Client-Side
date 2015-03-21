@@ -6726,4 +6726,6 @@
 //------------Aplicar em 2015-03-10--------------------
 //*****************************************************
 19951#Equipamento Visual#
+19984#Equipamento Visual#
+18551#Equipamento para Cabeça#
 //file end

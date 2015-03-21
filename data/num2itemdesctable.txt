@@ -25539,4 +25539,6 @@ Peso: 1
 //------------Aplicar em 2015-03-10--------------------
 //*****************************************************
 19951#Item não identificado. Pode ser identificado com uma [Lupa].#
+19984#Item não identificado. Pode ser identificado com uma [Lupa].#
+18551#Item não identificado. Pode ser identificado com uma [Lupa].#
 //file end

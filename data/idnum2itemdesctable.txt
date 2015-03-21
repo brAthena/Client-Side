@@ -38164,7 +38164,7 @@ Peso : ^7777771^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Banshee e 1 pergaminho de Transformação - Poring adicional.
 _
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Banshee' por 20 minutos.
-Aumenta o dano de Ataques Mágicos em 25% durante a transformação.
+Aumenta o dano de Ataques Mágicos em 25 durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
 Peso : ^7777771^000000
 #
@@ -40671,7 +40671,7 @@ Classe: ^777777Arcanos^000000
 #
 2162#
 Um livro antigo de músicas sacras cantadas na catedral.
-DEFM +5, permite que o usuário lance Poder de Odin nível 2, que aumenta o ATQ e ATQM em 100 e reduz a DEF e DEFM em 20.
+DEFM +5, permite que o usuário lance Poder de Odin nível 2, que aumenta o ATQ e ATQM em 100 e reduz a DEF e DEFM em 40.
 Aumenta em 5% a eficiência de Cura, Santuário e Arremessar Poção.
 Tipo: ^777777Escudo^000000 
 Defesa: ^77777720^000000
@@ -44126,7 +44126,7 @@ Equipa em: Arma
 Peso: 1
 #
 4522#
-Chance de causar Hipotermia ao realizar ataques físicos corpo a corpo.
+Chance de causar Cristalização ao realizar ataques físicos corpo a corpo.
 Tipo: Carta
 Equipa em: Arma
 Peso: 1
@@ -45143,6 +45143,30 @@ Defesa: ^7777770 ^000000
 Equipa em: ^777777Topo/Meio/Baixo ^000000
 Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+//*****************************************************
+//------------Aplicar em 2015-03-10--------------------
+//*****************************************************
+19984#
+Este chapéu é a última moda em Moscóvia! Dizem que foi usado até mesmo pela princesa perdida, Anestésia.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+18551#
+Esta é a lendária coroa que carrega as Joias do Infinito e que foi usada pelo vilão intergaláctico Thanotos para tentar dominar o universo. Felizmente, o valente Róqueti Fumacento e seus companheiros Protetores da Galáxia a tomaram do vilão e, mais uma vez, salvaram o dia!
+DEFM + 5.
+Para cada nível de refino, HP Max. +10 e SP Max. +11.
+Para cada 2 níveis de refino, aumenta a resistência contra ataques da propriedade Terra, Fogo e Vento em 1%.
+Tipo: ^777777Equipamento para Cabeça ^000000
+Defesa: ^7777775 ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^777777100 ^000000
+Nível Necessário: ^77777750 ^000000
 Classes: ^777777Todas ^000000
 #
 //file end
