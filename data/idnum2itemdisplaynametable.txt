@@ -6081,8 +6081,8 @@
 19685#Shiny_Santa_Poring_Hat#
 2190#Escudo do Dragão#
 18885#Jejecap#
-18889#Golden_Bunny_Band#
-18890#Gray_Bunny_Band#
+18889#Tiara de Coelho Dourada#
+18890#Tiara de Coelho Cinza#
 18891#Chapéu de Husky#
 18892#Chapéu de UFOring#
 18893#Elmo Garra de Dragão#
@@ -6764,4 +6764,14 @@
 //*****************************************************
 19984#Chapéu Visual de Inverno#
 18551#Coroa Galáctica#
+//*****************************************************
+//------------Aplicar em 2015-03-24--------------------
+//*****************************************************
+19987#Gorro Visual de Inverno#
+//*****************************************************
+//------------Aplicar em 2015-03-31--------------------
+//*****************************************************
+19986#Boné de Lunático#
+19652#Cartola Visual de Mágico#
+19990#Gorro de Coelho de Inverno#
 //file end

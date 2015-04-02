@@ -40891,32 +40891,28 @@ Classes: ^777777Todas^000000
 #
 
 18889#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-AGI + 5, LUK + 5, ATK + 5%
-If refined to 9, increase ATK and MATK by 5%
-If refined to 12, reduce fix casting time by 10%
-Type : ^777777Headgear^000000 
-Defense : ^7777772^000000
-Location : ^777777Upper ^000000
+Orelhas de coelho que passam a ideia de liberdade e deixam seu usuário extremamente atraente.
+AGI + 5, SOR + 5, ATQ + 5%.
+Se refinado em +9, aumenta o ATQ e ATQM em 5%.
+Se refinado em +12, reduz o tempo de conjuração fixa de magias em 10%.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
 Peso : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All Jobs^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
 #
 18890#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-INT + 5,  LUK + 5, ATK + 2%,  MATK + 5%
-If refined to 9,  ATK  and MATK increase 4%.
-If refined to 12, decrease stat casting time 10%
-Type : ^777777Headgear^000000 
-Defense : ^7777772^000000
-Location : ^777777Upper ^000000
+Orelhas de coelho que passam a ideia de liberdade e deixam seu usuário extremamente atraente.
+INT + 5,  SOR + 5, ATQ + 2%,  ATQM + 5%.
+Se refinado em +9, aumenta ATQ  e ATAQM em 4%.
+Se refinado em +12, reduz o tempo de conjuração variável de magias em 10%.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All Jobs^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
 #
 18891#
 Esse é um chapéu no formato de um simpático husky, que parece estar mordendo sua cabeça. É tão fofinho que dá vontade de fazer carinho nele. Você conseguiu esse chapéu quando compareceu no Anima os Friends, uma grande e animada feira que acontece em Prontera em homenagem à cultura e arte de Amatsu, unindo assim a cultura de ambos os povos.
@@ -44982,6 +44978,7 @@ Uma máscara perfeita para assustar no Dia das Bruxas ou rir no Carnaval. Dizem q
 Aumenta em 15% o Ataque Mágico contra todos os monstros.
 Aumenta em 2015% a recuperação de HP ao usar o item Leite. ^000000
 ^FF0000Os efeitos acima durarão até 23/03/2015. ^000000
+^ff0000Este item não pode ser negociado.^000000
 Tipo: ^777777Visual ^000000
 Defesa: ^7777770 ^000000
 Equipa em: ^777777Topo / Meio / Baixo^000000
@@ -45160,13 +45157,56 @@ Classes: ^777777Todas ^000000
 18551#
 Esta é a lendária coroa que carrega as Joias do Infinito e que foi usada pelo vilão intergaláctico Thanotos para tentar dominar o universo. Felizmente, o valente Róqueti Fumacento e seus companheiros Protetores da Galáxia a tomaram do vilão e, mais uma vez, salvaram o dia!
 DEFM + 5.
-Para cada nível de refino, HP Max. +10 e SP Max. +11.
+Para cada nível de refino, HP Max. +10 e SP Max. +10.
 Para cada 2 níveis de refino, aumenta a resistência contra ataques da propriedade Terra, Fogo e Vento em 1%.
 Tipo: ^777777Equipamento para Cabeça ^000000
-Defesa: ^7777775 ^000000
+Defesa: ^7777773 ^000000
 Equipa em: ^777777Topo ^000000
 Peso: ^777777100 ^000000
 Nível Necessário: ^77777750 ^000000
 Classes: ^777777Todas ^000000
 #
+//*****************************************************
+//------------Aplicar em 2015-03-24--------------------
+//*****************************************************
+19987#
+Nada melhor pra se manter aquecido do que um gorro de lã quentinho. Este é uma ótima pedida, principalmente se você curte azul ou se vai visitar os Manuks em Ash Vacuum.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+//*****************************************************
+//------------Aplicar em 2015-03-31--------------------
+//*****************************************************
+19986#
+Fale a verdade. Você apenas catou um Lunático do lado de fora de Prontera e colocou na sua cabeça, não foi? Nhóim, foi mesmo? Ai ti coisinha maizi fofuxa!
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+19652#
+Essa cartola cheia de truques, com este simpático coelhinho, mestre em desaparecer, nada mais é do que uma ilusão visual. Ou seria ilusão mágica?
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+19990#
+Por que simplesmente se aquecer com um gorro de lã, quando você pode se aquecer e ficar com um visual todo kawaii usando esse gorro com orelhinhas de coelho? Perfeito para aquelas convenções de Anime em Alberta!
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+
 //file end

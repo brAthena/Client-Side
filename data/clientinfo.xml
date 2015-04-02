@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="euc-kr" ?> 
+<clientinfo>
+	<servicetype>brazil</servicetype> 
+	<servertype>primary</servertype> 
+	<hideaccountlist></hideaccountlist>
+	<passwordencrypt></passwordencrypt>
+	<passwordencrypt2></passwordencrypt2>
+	<extendedslot></extendedslot>
+	<readfolder></readfolder>
+	<connection>
+		<display>^436EEEbrAthena Megasantos!^000000</display> 
+		<desc>^436EEEbrAthena Megasantos!^000000</desc> 
+		<balloon>^1E90FFbrAthena Megasantos^000000</balloon> 
+		<address>127.0.0.1</address> 
+		<port>6900</port> 
+		<version>20</version>
+		<langtype>12</langtype>		
+		<registrationweb>www.brathena.org</registrationweb> 
+  		<aid> 
+			<admin>100001</admin>
+  		</aid>
+	</connection>	
+</clientinfo>
