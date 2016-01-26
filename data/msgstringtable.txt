@@ -915,7 +915,7 @@ Você não pode refinar %s pois não possui nível suficiente em refinamento de arma
 Você não pode refinar isto pois não possui um %s, item necessário.#
 Remoção Completa não está funcionando por que o Revestimento é perfeito.#
 Você não pode adotar um personagem casado.#
-O nome é similar ao nome do seu amigo mas não está na lista. Por favor confirme a identidade dele.#
+ATENÇÃO! Este jogador não é seu amigo, ele apenas possui um Nickname semelhante ao de um de seus contatos. Não informe seus dados pessoais e não transfira itens para ele sob hipótese alguma. Certifique-se de que não se trata de uma tentativa de se passar por um amigo seu.#
 /hi ou /hi sentença : Dizer oi para todos os personagens na sua lista de amigos.#
 O nome é similar ao nome do seu companheiro de Clã mas esta pessoa não é do seu Clã. Por favor confirme a identidade dele.#
 ATENÇÃO! Este item será vendido por 99.99 Milhões de Zeny!#
@@ -1451,7 +1451,7 @@ Efeito de [Vipera] aplicado à arma#
 Apenas pode ser usado ao Planar#
 Necessita de um Detonador#
 Necessita de um Reconfigurador#
-Necessita de uma toxina de Sicário#
+Necessita de uma Toxina de Sicário#
 Necessita de um Termoregulador#
 Necessita de um Gerador de Magnetismo#
 Necessita de um Gerador de Barreira#
@@ -1463,13 +1463,13 @@ Não é possível deletar acima do nível %d#
 Não pode ser usado com o M.E.C.H.A.#
 Desmonte do Ferus#
 Saia do M.E.C.H.A.#
-Gaste#
+C#
 Dinheiro#
 Armadura#
 Arma#
 Projétil#
 Carta#
-Misc.#
+I#
 A conexão foi encerrada porque o programa demorou a responder#
 Versão incorreta do arquivo do HackShield. Reinstale o programa#
 Necessita de um Grimório#
@@ -1885,7 +1885,7 @@ Número de identificação incorreto, tente novamente#
 Algo errado com o serviço, tente novamente mais tarde#
 Impossível atacar neste modo#
 Impossível conjurar neste modo#
-Número de Pin deveria ter 4~6 caracteres#
+Número de Pin deve ter 4 caracteres#
 Log-in realizado com sucesso#
 Segunda senha inserida com sucesso#
 Segunda senha deletada#
@@ -2048,18 +2048,18 @@ Please write the party ad in memo.#
 Only party leader can add party advertisement.#
 It is already added party advertisment.#
 Content#
-Equipment#
-Individual#
-Lock the item throw#
+E#
+F#
+Travar Itens#
 Notice to find part members#
-Organize a party#
-Leave the party#
-party invitation#
-Register party name#
+Criar um grupo#
+Sair do Grupo#
+Convidar para o grupo#
+Registrar nome do grupo#
 Character name you are inviting#
 Party register request has sent to.#
-has denied to join the party.#
-has accept to join the party.#
+Recusou convite para o grupo.#
+Aceitou convite para o grupo.#
 It is already gathering parties.#
 it is the same condition as previous search.#
 Só pode ser usado após seu personagem sair da guilda.#
@@ -2086,8 +2086,8 @@ Replay File List#
 File info#
 File List#
 %s item is not possible to trade.#
-Dismiss the guild#
-The dismissed guild name#
+Desfazer Guilda#
+Digite o nome da guida#
 It is not logged in or unexist character.#
 Falcon summoning has failed.#
 %d%% ( Premium %d%% + %s server %d%% )#
@@ -2095,7 +2095,7 @@ The user is currently joining in the Siege.#
 It is not possible to change the party leader in the same map.#
 It is not possible to change the party leader in current area.#
 dpwn the Gryphon#
-%d Month %d day %d time %d min %d sec#
+Deletar: %d/%d - %d:%d:%d#
 You canot invite to the guild as you are in the siege.#
 You have requested to wait to enter in Battle ground.#
 the maximum amount has been exceeded.#

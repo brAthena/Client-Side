@@ -841,3 +841,21 @@ ma_zif07.rsw#Interior de Jeepney#
 ma_zif08.rsw#Interior de Jeepney#
 ma_zif09.rsw#Interior de Jeepney#
 job_ko.rsw#Lugar Escondido#
+
+//-----------WOE TE 05-26-2015----------
+te_prt_gld.rsw#Gloria#
+te_prtcas01.rsw#Gaebolg#
+te_prtcas02.rsw#Richard#
+te_prtcas03.rsw#Wigner#
+te_prtcas04.rsw#Heine#
+te_prtcas05.rsw#Nerius#
+teg_dun01.rsw#Guild basement dungeon#
+te_alde_gld.rsw#Kafra Garten#
+te_aldecas1.rsw#Sofia#
+te_aldecas2.rsw#Denise#
+te_aldecas3.rsw#Marianne#
+te_aldecas4.rsw#Bianca#
+te_aldecas5.rsw#Deborah#
+teg_dun02.rsw#Guild basement dungeon#
+//--------christmas event 2015------
+niflxmas.rsw#Deadman's land Niffelheim#

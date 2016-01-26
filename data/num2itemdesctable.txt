@@ -5433,9 +5433,6 @@ Peso : ^7777775^000000
 5024#Item não identificado, pode ser identificado com [Lupa]. #
 5025#Item não identificado, pode ser identificado com [Lupa]. #
 5026#Item não identificado, pode ser identificado com [Lupa]. #
-7056#
-Contra-cheque dos empregados da Central de Serviços Kafra.
-Peso : ^7777775^000000
 #
 7057#
 Grande trombeta feita de um chifre de animal. Diz a lenda que o trovão é criado
@@ -18823,8 +18820,7 @@ Profissões que utilizam: ^777777Todas^000000
 
 //---- Buzzy Bol Riclan event 2009 ----
 12264#
-Um chicle de bola em vários sabores, com figurinhas de desenhos e filmes, que vão fazer a sua cabeça.
-Aumenta a quantidade de itens derrubados em 100% por um período de 30 minutos.
+Um chiclé de bola.
 ^ffffff_^000000
 Peso: ^7777771^000000
 #
@@ -25551,4 +25547,338 @@ Peso: 1
 19986#Item não identificado. Pode ser identificado com uma [Lupa].#
 19652#Item não identificado. Pode ser identificado com uma [Lupa].#
 19990#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2015-04-07--------------------
+//*****************************************************
+20725#Item não identificado. Pode ser identificado com uma [Lupa].#
+5785#Item não identificado. Pode ser identificado com uma [Lupa].#
+5784#Item não identificado. Pode ser identificado com uma [Lupa].#
+18585#Item não identificado. Pode ser identificado com uma [Lupa].#
+18587#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2015-05-07--------------------
+//*****************************************************
+19992#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2015-05-19--------------------
+//*****************************************************
+19959#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2015-05-26--------------------
+//*****************************************************
+19709#Item não identificado. Pode ser identificado com uma [Lupa].#
+//----------WoE TE 2015-04-06--------------------------------------
+1299#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1319#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1399#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1437#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1495#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1591#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1667#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1834#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1932#Item não identificado. Pode ser identificado com uma [Lupa]. #
+1987#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2019#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2020#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2021#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2178#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2179#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2180#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2181#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2182#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2496#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2497#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2498#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2944#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2945#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2946#Item não identificado. Pode ser identificado com uma [Lupa]. #
+6592#Caixote#
+6594#Barra de Bronze Mágica#
+6595#Martelo de Velund#
+6596#Bigorna de Velund#
+6597#Bracelete de Velund#
+6598#Costela de Jormungand#
+6599#Espírito de Hugin#
+6600#Espírito de Munin#
+6601#Cinzel do Gigante#
+6602#Segredo Rúnico#
+6603#Couro de Hraesvelg#
+6604#Essência de Runa#
+6605#Muspellium#
+7056#Extrato de Pagamento#
+11557#Poção Branca TE#
+11558#Poção Branca Compacta TE#
+13083#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13117#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13184#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13185#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13186#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13187#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13317#Item não identificado. Pode ser identificado com uma [Lupa]. #
+13439#Item não identificado. Pode ser identificado com uma [Lupa]. #
+15062#Item não identificado. Pode ser identificado com uma [Lupa]. #
+15063#Item não identificado. Pode ser identificado com uma [Lupa]. #
+15064#Item não identificado. Pode ser identificado com uma [Lupa]. #
+16025#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18118#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18732#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18733#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18734#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18736#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20702#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20703#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20704#Item não identificado. Pode ser identificado com uma [Lupa]. #
+21006#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2950#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2951#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2952#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2953#Item não identificado. Pode ser identificado com uma [Lupa]. #
+2954#Item não identificado. Pode ser identificado com uma [Lupa]. #
+6615#Moeda TE#
+12873#Caixa de Poções TE#
+12874#Sangue de Gigante Congelado#
+12875#Núcleo Golem#
+12876#Lágrima de Fada (Atordoamento)#
+12877#Lágrima de Fada (Petrificação)#
+12878#Lágrima de Fada (Congelamento)#
+12879#Lágrima de Fada (Sono)#
+12880#Lágrima de Fada (Maldição)#
+12881#Lágrima de Fada (Silêncio)#
+12882#Lágrima de Fada (Cegueira)#
+12888#Caixa de Suprimentos TE#
+15067#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18755#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19585#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20709#Item não identificado. Pode ser identificado com uma [Lupa]. #
+22012#Item não identificado. Pode ser identificado com uma [Lupa]. #
+12399#Baú do Tesouro TE#
+
+//*****************************************************
+
+//------------Aplicar em 2015-06-09--------------------
+
+//*****************************************************
+
+19991#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+//*****************************************************
+
+//------------Aplicar em 2015-06-16--------------------
+
+//*****************************************************
+
+19960#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+//*****************************************************
+
+//------------Aplicar em 2015-06-23--------------------
+
+//*****************************************************
+
+19957#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+//*****************************************************
+
+//------------Aplicar em 2015-07-30--------------------
+
+//*****************************************************
+
+19544#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+18912#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+18569#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+//*****************************************************
+
+//------------Aplicar em 2015-07-14--------------------
+//*****************************************************
+
+19528#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+19526#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+19533#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+19524#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+
+//------------Aplicar em 2015-07-21--------------------
+
+//*****************************************************
+
+18525#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+18602#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+//*****************************************************
+//------------Aplicar em 2015-08-04--------------------
+//*****************************************************
+19937#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-08-11--------------------
+//*****************************************************
+20239#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20242#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-08-18--------------------
+//*****************************************************
+20200#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-08-25--------------------
+//*****************************************************
+20243#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-09-08--------------------
+//*****************************************************
+5329#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-09-15--------------------
+//*****************************************************
+19657#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-09-22--------------------
+//*****************************************************
+19726#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-09-30--------------------
+//*****************************************************
+20071#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+
+//------------06/10/2015 Quest de 11 Anos------------
+
+//*****************************************************
+
+19038#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+19039#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+20135#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+20136#Item não identificado. Pode ser identificado com uma [Lupa]. #
+
+7199#Moeda do 11º Aniversário#
+
+22549#Garrafa de Veneno Especial#
+
+22652#Caixa de Chapéu#
+
+12609#Caixa de Pedra Antiga#
+
+12535#Caixa de Fruto de Yggdrasil#
+//*****************************************************
+//------------Aplicar em 2015-10-13--------------------
+//*****************************************************
+19958#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-10-20--------------------
+//*****************************************************
+19656#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------2015-10-27 Halloween--------------------
+//*****************************************************
+11592#
+Recupera 45 de HP.
+[Efeito durante o evento de Halloween de 2015]
+Ao usar, transforma o usuário em um Serial Killer por 10 minutos. HP Máximo + 1000 enquanto transformado.
+Peso: ^7777773^000000
+#
+11593#Recupera 45 de HP.
+[Efeito durante o evento de Halloween de 2015]
+Ao usar, transforma o usuário em uma Bathory por 10 minutos. SP Máximo + 100 enquanto transformado.
+Peso: ^7777773^000000
+#
+11594#
+Recupera 45 de HP.
+[Efeito durante o evento de Halloween de 2015]
+Ao usar, transforma o usuário em um Jack por 10 minutos. Aumenta a efetividade do item 'Abóbora' em 2000% enquanto transformado.
+Peso: ^7777773^000000
+#
+11595#Recupera 45 de HP.
+[Efeito durante o evento de Halloween de 2015]
+Ao usar, transforma o usuário em um Quve por 10 minutos. Precisão + 10 e Esquiva + 20 enquanto transformado.
+Peso: ^7777773^000000
+#
+22067#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20183#Item não identificado. Pode ser identificado com uma [Lupa]. #
+6913#
+^ff0000Este item não pode ser negociado.^000000
+Um rosário abençoado. Ele serve para descobrir quem está morto e quem não está.
+(Este item será removido após o término do evento.)
+Peso: ^7777770^000000
+#
+6914#
+^ff0000Este item não pode ser negociado.^000000
+Um Alma perigosa que foi capturada enquanto fugia de Niflheim.
+Peso: ^7777770^000000
+#
+6915#
+^ff0000Este item não pode ser negociado.^000000
+Um Alma que vaga livremente mas foi capturada enquanto fugia de Niflheim.
+Peso: ^7777770^000000
+#
+22838#
+Uma sacola cheia de doces de Halloween. Ao abrir, você pode receber doces ou itens antigos diversos.
+Peso: ^7777771^000000
+#
+19824#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19746#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20034#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------2015-11-03 Rei Poring--------------------
+//*****************************************************
+6480#
+Moedas do Rei Poring.
+(Este item será removido após o término do evento.)
+Peso: ^7777770^000000
+#
+18632#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18633#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18634#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18635#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18785#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19587#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-11-10--------------------
+//*****************************************************
+19839#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19835#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19831#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19827#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-11-17--------------------
+//*****************************************************
+20015#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19819#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19823#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-12-08--------------------
+//*****************************************************
+20070#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19702#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18838#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-12-15--------------------
+//*****************************************************
+20798#Item não identificado. Pode ser identificado com uma [Lupa]. #
+25143#Pelúcia de Coelhinho#
+25144#Boneca Fofura Contorcionista#
+25145#Boneca Queimada da Baba Yaga#
+25146#Bonequinha da Jirtas#
+25147#Pelúcia de Coelhinho Darko#
+25148#Bonequinho Faminto#
+25149#Barbe Jogo da Forca#
+25150#Travesseiro Moe da Alice#
+11567#
+Uma poção para aprendizes.
+Peso: ^7777771^000000
+#
+19785#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18852#Item não identificado. Pode ser identificado com uma [Lupa]. #
+#
+//*****************************************************
+//------------Aplicar em 2015-01-19--------------------
+//*****************************************************
+20144#Item não identificado. Pode ser identificado com uma [Lupa]. #
 //file end

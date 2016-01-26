@@ -4817,7 +4817,7 @@ Resgate um garoto perdido no primeiro andar do calabouço de Geffen. #
 Você encontrou o garoto! Vá reportar sua descoberta. #
 #
 3254#Pedidos! #SG_FEEL #QUE_NOIMAGE #
-Colete 10 Areias Finas e 10 Torrões de Areia. #
+Colete 10 Areias Finas e 30 Torrões de Areia. #
 #
 3255#Pedidos! #SG_FEEL #QUE_NOIMAGE #
 Derrote 30 Selvagens nos campos de Payon. #
@@ -5304,8 +5304,8 @@ Derrote 10 Fumacentos no campo a nordeste de Geffen ou em outros locais. #
 Derrote 10 Fumacentos #
 
 8268#Missões de Caçada #SG_FEEL #QUE_NOIMAGE #
-Derrote 10 Sangueiros Anciões no campo a leste de Payon ou em outros locais. #
-Derrote 10 Sangueiros Anciões #
+Derrote 10 Salgueiros Anciões no campo a leste de Payon ou em outros locais. #
+Derrote 10 Salgueiros Anciões #
 
 8269#Missões de Caçada #SG_FEEL #QUE_NOIMAGE #
 Derrote 10 Kokos no campo a leste de Payon ou em outros locais. #
@@ -10531,3 +10531,389 @@ Volte de manhã.#
 11393#Eu quero ser estiloso!#SG_FEEL#QUE_NOIMAGE#
 Quer uma obra de arte do Pastor Estiloso? Tente trazer todos os itens necessários!#
 Complete a produção do Chapéu.#
+
+//°ø¼ºÀü TE
+
+7501# Bebê Suspeito (1)
+Um pedido para eliminar um Bebê Suspeito que se esconde nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 1 Bebê.#
+Bebês Suspeitos eliminados#
+
+7502# Bebê Suspeito (10)
+Um pedido para eliminar 10 Bebês Suspeitos que se escondem nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 10 Bebês.#
+Bebês Suspeitos eliminados#
+
+7503# Bebê Suspeito (30)
+Um pedido para eliminar 30 Bebês Suspeitos que se escondem nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium.. Alvo: 30 Bebês.#
+Bebês Suspeitos eliminados#
+
+7504# Quebre o Emperium (1)
+O coração de um castelo: o Emperium! Quebre 1 Emperium nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 1 Emperium#
+Emperium destruídos#
+
+7505# Quebre o Emperium (3)
+O coração de um castelo: o Emperium! Quebre 3 Emperiums nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 3 Emperium#
+Emperium destruídos#
+
+7506# Quebre o Emperium (5)
+O coração de um castelo: o Emperium! Quebre 5 Emperiums nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 5 Emperium#
+Emperium destruídos#
+
+7507# Caixotes Roubados (10)
+Alguns Bebês Suspeitos roubaram vários caixotes de madeira dos castelos do Feudo de Gloria e Kafragarten. Colete 10 Caixotes durante a Guerra do Emperium.# 
+10 Caixotes#
+
+7508# Caixotes Roubados (20)
+Alguns Bebês Suspeitos roubaram vários caixotes de madeira dos castelos do Feudo de Gloria e Kafragarten. Colete 20 Caixotes durante a Guerra do Emperium.# 
+20 Caixotes#
+
+7509# Caixotes Roubados (3)
+Alguns Bebês Suspeitos roubaram vários caixotes de madeira dos castelos do Feudo de Gloria e Kafragarten. Colete 30 Caixotes durante a Guerra do Emperium.# 
+30 Caixotes#
+
+7510# Pega Ladrão! (1)
+Derrote o Poring Suspeito que se esconde nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 1 Poring Suspeito.#
+Porings Suspeitos eliminados#
+
+7510# Pega Ladrão! (10)
+Derrote 10 Porings Suspeitos que se escondem nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 10 Porings Suspeitos.#
+Porings Suspeitos eliminados#
+
+7510# Pega Ladrão! (30)
+Derrote 30 Porings Suspeitos que se escondem nos castelos dos Feudos de Gloria e Kafragarten durante a Guerra do Emperium. Alvo: 30 Porings Suspeitos.#
+Porings Suspeitos eliminados#
+
+7513# Extratos de Pagamento (10)
+Parece que o Poring Suspeito roubou 10 Extratos de Pagamento da Corporação Kafra! Recupere-os! Item: 10 Extratos de Pagamento#
+10 Extratos de Pagamento#
+
+7514# Extratos de Pagamento (20)
+Parece que o Poring Suspeito roubou 20 Extratos de Pagamento da Corporação Kafra! Recupere-os! Item: 20 Extratos de Pagamento#
+20 Extratos de Pagamento#
+
+7515# Extratos de Pagamento (30)
+Parece que o Poring Suspeito roubou 30 Extratos de Pagamento da Corporação Kafra! Recupere-os! Item: 30 Extratos de Pagamento#
+30 Extratos de Pagamento#
+
+7516# Quebre o Emperium (Pausa)
+Quebrar Emperiums repetidas vezes pode estagnar o desenvolvimento comercial. Dê um tempo para o Emperium se recuperar.#
+Retorne após 20 minutos#
+
+//-- Guild Quest Valkyrie Realm, Britoniah, Luina, Greenwood Lake
+
+7517# Ocupe o Feudo das Valquírias 
+Conquiste um castelo do Feudo das Valquírias. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7518# Ocupe o Feudo de Luina
+Conquiste um castelo do Feudo de Luina. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7519# Ocupe o Feudo de Britoniah
+Conquiste um castelo do Feudo de Britoniah. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7520# Ocupe o Feudo do Bosque Celestial
+Conquiste um castelo do Feudo do Bosque Celestial. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7521# Ocupe o Feudo de Nithafjoll
+Conquiste um castelo do Feudo de Nithafjoll. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7522# Ocupe o Feudo de Valfreyja
+Conquiste um castelo do Feudo de Valfreyja. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7523# Ocupe o Feudo de Gloria
+Conquiste um castelo do Feudo de Gloria. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+7524# Ocupe o Feudo de Kafragarten 
+Conquiste um castelo do Feudo de Kafragarten. Informe a conquista após 1 hora.#
+Retorne após 1 hora#
+
+//-- Guild Dungeon Daily Quest
+
+7525# Insetos no Calabouço!
+No primeiro andar do Calabouço do Feudo das Valquírias, livre-se de 50 Largatas e 50 Creamys Ameaçadoras.#
+Monstros eliminados#
+
+7526# Cachorros no Calabouço!
+No segundo andar do Calabouço do Feudo das Valquírias, livre-se de 30 Kobolds Abissais de Machado, 30 Kobolds Abissais de Martelo e 30 Kobolds Abissais de Maça# 
+Monstros eliminados#
+
+7527# Desafio das Valquírias!
+Derrote a Pyuriel Furiosa e a Guerreira Laura no Portal do Abismo: Caminho do Guerreiro.#
+Monstros eliminados#
+
+7528# Invasores no Calabouço!
+No primeiro andar do Calabouço do Feudo de Luina, livre-se de 50 Zangões e 50 Vermes Anciões.#
+Monstros eliminados#
+
+7529# Pragas no Calabouço!
+No segundo andar do Calabouço do Feudo de Luina, livre-se de 40 Mantis Assassinos e 50 Louva-a-Deus Angra.#
+Monstros eliminados#
+
+7530# Desafio de Luina!
+Derrote Gioia e Elvira no Portal do Abismo: Lágrimas do Herói.#
+Monstros eliminados#
+
+7531# Zumbis no Calabouço!
+No primeiro andar do Calabouço do Feudo de Britoniah, livre-se de 50 Zumbis Mestres e 50 Aparições.#
+Monstros eliminados#
+
+7532# Demônios no Calabouço!
+No segundo andar do Calabouço do Feudo de Britoniah, livre-se de 20 Molduras Abissais, 20 Sacerdotes Abissais e 50 Sombras Abissais.#
+Monstros eliminados#
+
+7533# Desafio de Britoniah!
+Derrote Rudo e Kades, o Guardião Morto, no Portal do Abismo: Colina dos Mortos.# 
+Monstros eliminados#
+
+7534# Selvageria no Calabouço!
+No primeiro andar do Calabouço do Feudo do Bosque Celestial, livre-se de 50 Gullinbrustis e 50 Leib Olmais.#
+Monstros eliminados#
+
+7535# Monstros no Calabouço!
+No segundo andar do Calabouço do Feudo do Bosque Celestial, livre-se de 45 Esqueletos Generais, 20 Am Muts e 25 Gajomarts.#
+Monstros eliminados#
+
+7536# Desafio do Bosque Celestial!
+Derrote o General Daehyeon e a Samurai Soheon no Portal do Abismo: Ventos Ancestrais.#
+Monstros eliminados#
+
+7537# Robôs no Calabouço!
+Livre-se de 50 Apocalipses Infernais e 50 Zakudam no Calabouço do Feudo de Nithafjoll.#
+Monstros eliminados#
+
+7538# Bizarrice no Calabouço!
+Livre-se de 35 Metalings Pesados e 35 Cobaltos no Calabouço do Feudo de Nithafjoll.#
+Monstros eliminados#
+
+7539# Estranhos no Calabouço!
+Livre-se de 50 Senhoras das Banshees e 30 Mestres Beholder no Calabouço do Feudo de Valfreyja.#
+Monstros eliminados#
+
+7540# Fanáticos no Calabouço!
+Livre-se de 50 Aunoes e 20 Fanats no Calabouço do Feudo de Valfreyja.#
+Monstros eliminados#
+
+7541# Espíritos no Calabouço!
+Livre-se de 30 Cavaleiros, 30 Mercenários e 30 Ferreiros no Calabouço do Feudo de Gloria.#
+Monstros eliminados# 
+
+7542# Fantasmas no Calabouço!
+Livre-se de 30 Bruxas, 30 Sacerdotisas e 30 Caçadoras na masmorra do Feudo de Gloria.# 
+Monstros eliminados#
+
+//-- Guild Quest Standby Time
+7543# Insetos Eliminados
+Você já completou a missão "Insetos no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7544# Cachorros Eliminados
+Você já completou a missão "Cachorros no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7545# Desafio Concluído
+Você já completou a missão "Desafio das Valquírias!" por hoje. Volte após 1 semana para iniciar a missão novamente.#
+Vejo você semana que vem!#
+
+7546# Invasores Eliminados
+Você já completou a missão "Invasores no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7547# Pragas Eliminadas
+Você já completou a missão "Pragas no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7548# Desafio Concluído
+Você já completou a missão "Desafio de Luina!" por hoje. Volte após 1 semana para iniciar a missão novamente.#
+Vejo você semana que vem!#
+
+7549# Zumbis Eliminados
+Você já completou a missão "Zumbis no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7550# Demônios Eliminados
+Você já completou a missão "Demônios no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7551# Desafio Concluído
+Você já completou a missão "Desafio de Britoniah!" por hoje. Volte após 1 semana para iniciar a missão novamente.#
+Vejo você semana que vem!#
+
+7552# Selvageria Eliminada
+Você já completou a missão "Selvageria no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7553# Monstros Eliminados
+Você já completou a missão "Monstros no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7554# Desafio Concluído
+Você já completou a missão "Desafio do Bosque Celestial!" por hoje. Volte após 1 semana para iniciar a missão novamente.#
+Vejo você semana que vem!#
+
+7555# Robôs Eliminados
+Você já completou a missão "Robôs no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7556# Bizarrice Eliminada
+Você já completou a missão "Bizarrice no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7557# Estranhos Eliminados
+Você já completou a missão "Estranhos no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7558# Fanáticos Eliminados
+Você já completou a missão "Fanáticos no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7559# Espíritos Eliminados
+Você já completou a missão "Espíritos no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7560# Fantasmas Eliminados
+Você já completou a missão "Fantasmas no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7561# Assombrações no Calabouço!
+Livre-se de 30 Templárias, 30 Arruaceiras e 30 Alquimistas no Calabouço do Feudo de Kafragarten.#
+Monstros eliminados#
+
+7562# Espectros no Calabouço!
+Livre-se de 30 Sábios, 30 Monges e 30 Bardos no Calabouço do Feudo de Kafragarten.# 
+Monstros eliminados#
+
+7563# Assombrações Eliminadas
+Você já completou a missão "Assombrações no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+7564# Espectros Eliminados
+Você já completou a missão "Espectros no Calabouço" por hoje. Volte amanhã para iniciar a missão novamente.#
+Vejo você amanhã!#
+
+15071#Limpando Comodo#SG_FEEL#QUE_NOIMAGE#
+Volte amanhã.#
+=)#
+
+15072#Limpando Comodo#SG_FEEL#QUE_NOIMAGE#
+Recolha os Restos de Lixo.#
+Recolha 20.#
+
+15073#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Volte amanhã.#
+=)#
+
+15074#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Vá até a Placa em Payon.#
+Leia a Placa.#
+
+15075#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Vá até a Placa em Prontera.#
+Leia a Placa.#
+
+15076#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Vá até a Placa em Al De baran.#
+Leia a Placa.#
+
+15077#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Vá até a Placa em Geffen.#
+Leia a Placa.#
+
+15078#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Volte para Comodo.#
+Fale com o Gerente de Eventos.#
+
+15079#Todos precisam saber!#SG_FEEL#QUE_NOIMAGE#
+Leia todas as placas e reporte para o Gerente de Eventos dentro de 10 minutos.#
+Complete a missão em 10 minutos.#
+
+// Halloween 2015 bRO
+
+14450#Vamos ajudar os Sacerdotes!#SG_FEEL#QUE_NOIMAGE#
+Almas perigosas estão vagando pelas redondezas. Tome cuidado e capture algumas Almas para ajudar o pobre Sacerdote.#
+Traga 5 Almas Capturadas e 1 Alma Sombria.#
+
+14451#Para a igreja#SG_FEEL#QUE_NOIMAGE#
+Talvez alguém da igreja possa nos ajudar.#
+Vá para a igreja de Prontera.#
+
+14452#Itens Sagrados#SG_FEEL#QUE_NOIMAGE#
+Para descobrir quem é o vivo entre os mortos, você precisa de um Item Sagrado! Traga 1 Rosário e 6 Águas Bentas! Simples, não?#
+Traga os itens#
+
+14453#Para Niflheim#SG_FEEL#QUE_NOIMAGE#
+Leve o item sagrado para tentar descobrir quem é o vivo entre os mortos.#
+Vá para Niflheim#
+
+14454#Para Lutie#SG_FEEL#QUE_NOIMAGE#
+O homem morto sem braço deve ter algum conhecido por aqui.#
+Vá para Lutie#
+
+14455#De volta para a Igreja#SG_FEEL#QUE_NOIMAGE#
+A alma do Richerd foi pra Niflheim mesmo com ele ainda vivo. Vamos perguntar à Irmã o que podemos fazer.#
+Vá para a Igreja de Prontera#
+
+14456#Preparando o chamado#SG_FEEL#QUE_NOIMAGE#
+Queime a Folha de Yggdrasil para fazer Richard se lembrar que ainda está vivo. Vá para Lutie com 1 Folha de Yggdrasil e 1 Lenha em Brasa.#
+Reze muito#
+
+14457#De volta para Niflheim#SG_FEEL#QUE_NOIMAGE#
+Vamos voltar e contar aos mortos o que aconteceu com Richard.#
+Back to Niflheim#
+
+14458#O pedido de Loru#SG_FEEL#QUE_NOIMAGE#
+Ei! Se tiver tempo, volte aqui mais tarde!#
+Fale com Loru#
+
+14459#O pedido de Devi#SG_FEEL#QUE_NOIMAGE#
+Fale comigo antes de ir embora, por favor.#
+Fale com Devi#
+
+14460#Um favor para Loru#SG_FEEL#QUE_NOIMAGE#
+Quero que minha festa fique cheia de gente, então por favor vá pegar quem fugiu. Quero muito brincar com eles! Traga 10 Almas Andarilhas.#
+10 Almas Andarilhas#
+
+14461#Um favor para Loru#SG_FEEL#QUE_NOIMAGE#
+Quero uma festa bem chique, então me traga 10 Cachecóis Vermelhos e 10 Bonecas Enforcadas, por favor.#
+Decorações para a festa#
+
+14462#Um favor para Devi#SG_FEEL#QUE_NOIMAGE#
+Tem uns caras suspeitos, essas Almas da Escuridão... Elas são muito perigosas, portanto capture 10.#
+10 Almas da Escuridão#
+
+14463#Um favor para Devi#SG_FEEL#QUE_NOIMAGE#
+Tem uns caras suspeitos, esses Poltergeists e Serial Killers... Eles estão fazendo coisa errada e isso pode ser perigoso! Capture 20 de cada, por favor.#
+Caras suspeitos#
+
+14464#A festa vai durar o dia inteiro#SG_FEEL#QUE_NOIMAGE#
+Muito obrigada por ajudar! Quando a festa acabar, vamos precisar de mais decoraçãos, então volte amanhã!#
+Espere um dia#
+
+14465#Eles ficaram quietos#SG_FEEL#QUE_NOIMAGE#
+Obrigado por ajudar a pegar esses caras! Por favor, me ajude amanhã de novo.#
+Espere um dia#
+
+12323#Rei Poring#SG_FEEL#QUE_NOIMAGE#
+Você recebeu o Chapéu do Rei Poring.#
+Parabéns!#
+
+12324#Rei Poring#SG_FEEL#QUE_NOIMAGE#
+Você recebeu o Chapéu Visual do Rei Poring.#
+Parabéns!#
+
+// 2015 Christmas
+9432#A proposta de Antonio#SG_FEEL#QUE_NOIMAGE#
+Estão dizendo que Antônio está procurando por aventureiros em Prontera. Parece que há uma missão secreta....#
+Fale com Antônio em Niflheim#
+
+9433#Coletando Bonecas#SG_FEEL#QUE_NOIMAGE#
+Cace presentes na Fábrica de Brinquedos de Lutie e colete Bonecas de Presente.#
+Colete 7 bonecas, customize-as e leve-as ao Jakk.#
+
+9434#Uma de cada vez#SG_FEEL#QUE_NOIMAGE#
+Você só pode fazer essa quest uma vez por dia.#
+Volte amanhã.#

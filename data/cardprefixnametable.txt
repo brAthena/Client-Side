@@ -443,7 +443,7 @@
 4443#do Gelo Perfurante#
 4444#do Fogo Eterno#
 4445#do Vento Uivante#
-4447#do Evenenamento#
+4447#do Envenenamento#
 4448#do Amaldiçoado#
 4449#do Abençoado#
 4450#do Mestre Feiticeiro#
@@ -526,8 +526,9 @@
 4531#das Maldições#
 4532#da Corrida#
 4533#da Cegueira#
-4534#da Bomda D'Água#
+4534#da Bomba D'Água#
 //*****************************************************
 //------------Aplicar em 2015-02-02--------------------
 //*****************************************************
 4539#do Arrogante Selado#
+4624#do Alto Nível#

@@ -1,4 +1,4 @@
-//--Ticket de Promoção  ---------------------------------------------
+//--Ticket de Promoção----------------------------
 7608#Ticket de Promoção#
 
 //--------------- Renewal Update -----------------
@@ -1101,7 +1101,7 @@
 4004#Carta_Drops#
 4005#Carta_Poring_Noel#
 4006#Carta_Lunático#
-4007#Carta_Ovo_de_Pecopeco#
+4007#Carta_Ovo_de_PecoPeco#
 4008#Carta_Picky#
 4009#Carta_Chonchon#
 4010#Carta_Salgueiro#
@@ -1111,7 +1111,7 @@
 4014#Carta_Sapo_de_Rodda#
 4015#Carta_Condor#
 4016#Carta_Besouro-Ladrão#
-4017#Carta_Bebe_Selvagem#
+4017#Carta_Bebê_Selvagem#
 4018#Carta_Larva_de_Andre#
 4019#Carta_Zangão#
 4020#Carta_Familiar#
@@ -1355,7 +1355,7 @@
 9006#Ovo_de_Chonchon#
 9007#Ovo_de_Chonchon_de_Aço#
 9008#Ovo_de_Mosca_Caçadora#
-9009#Ovo_de_Bebe_Selvagem#
+9009#Ovo_de_Bebê_Selvagem#
 9010#Ovo_de_Lobo_do_Deserto_Bebê#
 9011#Ovo_de_Rocker#
 9012#Ovo_de_Esporo#
@@ -1469,7 +1469,6 @@
 5024#Chapéu_de_Bolo#
 5025#Elmo_Angelical#
 5026#Mestre-Cuca#
-7056#Extrato_de_Pagamento#
 7057#Gjallar#
 7058#Gleipnir#
 7059#Vale-Armazém#
@@ -1996,7 +1995,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote Universitário#
+7550#Ticket de Contribuição#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -3108,7 +3107,7 @@
 5283#Chapéu_de_Pintinho#
 5284#Coroa_da_Flor_de_Lótus#
 5285#Presilha_de_Cata-Vento#
-5286#Asas_de_Peco-Peco#
+5286#Asas_de_PecoPeco#
 5287#Chapéu_de_Piquenique#
 5288#Óculos_Vermelhos#
 5289#Chapéu_de_Vanilmirth#
@@ -3481,7 +3480,7 @@
 5383#Chapéu_de_Caça#
 2736#Piercing_da_Marinha#
 2737#Tornozeleira_da_Marinha#
-5358#Asinhas_de_Peco_Peco#
+5358#Asinhas_de_PecoPeco#
 5359#Chapéu_do_Capitão#
 5360#Orelhas_Felinas#
 5361#Máscara_de_Fugitivo#
@@ -4091,7 +4090,7 @@
 13031#Quebrador de Espadas#
 13032#Partidor de Cota de Malha#
 13033#Adaga do Algoz#
-1540#Crux Magnum#
+1540#Grande Cruz#
 5351#Girassol#
 5347#Capelo#
 5348#Grande Laço#
@@ -6617,7 +6616,7 @@
 4528#Carta Celacanto Mutante#
 4526#Carta Celacanto Cruel#
 4506#Carta Dolomedes#
-4517#Carta Centrawasih#
+4517#Carta Cendrawasih#
 4524#Carta Dramoh Rei#
 4530#Carta Siorava#
 4513#Carta Louva-a-deus Angra#
@@ -6774,4 +6773,256 @@
 19986#Boné de Lunático#
 19652#Cartola Visual de Mágico#
 19990#Gorro de Coelho de Inverno#
+//*****************************************************
+//------------Aplicar em 2015-04-07--------------------
+//*****************************************************
+20725#Lacinho da Piamette#
+5785#Orelhas de Coelho Verde#
+5784#Orelhas de Coelho Rosa#
+18585#Orelhas de Coelho Laranja#
+18587#Orelhas de Coelho Azul#
+//*****************************************************
+//------------Aplicar em 2015-05-07--------------------
+//*****************************************************
+19992#Hálito Gelado#
+//*****************************************************
+//------------Aplicar em 2015-05-19--------------------
+//*****************************************************
+19959#Penteado de Argiope#
+//*****************************************************
+//------------Aplicar em 2015-05-26--------------------
+//*****************************************************
+19709#Lacinho de Fruto de Yggdrasil#
+//----------WoE TE 2015-04-06--------------------------------------
+1299#Katar TE#
+1319#Machado TE#
+1399#Machado de Duas Mãos TE#
+1437#Pique TE#
+1495#Lança TE#
+1591#Livro TE#
+1667#Cajado TE#
+1834#Punho TE#
+1932#Violão TE#
+1987#Chicote TE#
+2019#Cajado de Duas Mãos TE#
+2020#Jormungand#
+2021#Ganbantein#
+2178#Broquel TE#
+2179#Escudo TE#
+2180#Vembrassa Mágica TE#
+2181#Hervor#
+2182#Hervor Alvitr#
+2496#Sapatos TE#
+2497#Botas TE#
+2498#Sandálias Mágicas TE#
+2944#Anel de Proteção TE#
+2945#Anel da Fúria TE#
+2946#Anel do Desafio TE#
+6592#Caixote#
+6594#Barra de Bronze Mágica#
+6595#Martelo de Velund#
+6596#Bigorna de Velund#
+6597#Bracelete de Velund#
+6598#Costela de Jormungand#
+6599#Espírito de Hugin#
+6600#Espírito de Munin#
+6601#Cinzel do Gigante#
+6602#Segredo Rúnico#
+6603#Couro de Hraesvelg#
+6604#Essência de Runa#
+6605#Muspellium#
+7056#Extrato de Pagamento#
+11557#Poção Branca TE#
+11558#Poção Branca Compacta TE#
+13083#Adaga TE#
+13117#Pistola TE#
+13184#Rifle TE#
+13185#Metralhadora TE#
+13186#Espingarda TE#
+13187#Lança Granadas TE#
+13317#Shuriken Huuma TE#
+13439#Espada TE#
+15062#Casaco TE#
+15063#Cota de Malha TE#
+15064#Casaco Mágico TE#
+16025#Maça TE#
+18118#Arco TE#
+18732#Barrete TE#
+18733#Elmo TE#
+18734#Olho Mágico TE#
+18736#Pedido Desconhecido#
+20702#Sobrepeliz TE#
+20703#Manteau TE#
+20704#Manteau Mágico TE#
+21006#Espada de Duas Mãos TE#
+2950#Anel Rúnico#
+2951#Anel de Kvasir(Azul)#
+2952#Anel de Kvasir(Vermelho)#
+2953#Anel de Kvasir(Verde)#
+2954#Anel de Kvasir(Marrom)#
+6615#Moeda TE#
+12873#Caixa de Poções TE#
+12874#Sangue de Gigante Congelado#
+12875#Núcleo Golem#
+12876#Lágrima de Fada (Atordoamento)#
+12877#Lágrima de Fada (Petrificação)#
+12878#Lágrima de Fada (Congelamento)#
+12879#Lágrima de Fada (Sono)#
+12880#Lágrima de Fada (Maldição)#
+12881#Lágrima de Fada (Silêncio)#
+12882#Lágrima de Fada (Cegueira)#
+12888#Caixa de Suprimentos TE#
+15067#Manto Rúnico#
+18755#Boina Alada#
+19585#Boina Alada Visual#
+20709#Manteua de Mana#
+22012#Botas de Mana#
+12399#Baú do Tesouro TE#
+//*****************************************************
+//------------Aplicar em 2015-06-09--------------------
+//*****************************************************
+19991#Tiara de Galanthus#
+//*****************************************************
+//------------Aplicar em 2015-06-16--------------------
+//*****************************************************
+19960#Correntes de Marionete#
+//*****************************************************
+//------------Aplicar em 2015-06-23--------------------
+//*****************************************************
+19957#Capacete de Motociclista#
+//*****************************************************
+//------------Aplicar em 2015-07-30--------------------
+//*****************************************************
+19544#Chapéu de Gatinho Assustado#
+18912#Pombo Revelador#
+18569#Chapéu de Ovelha Fofinha#
+//*****************************************************
+//------------Aplicar em 2015-07-14--------------------
+//*****************************************************
+19528#Bevor de Plástico#
+19526#Elmo de Sucata#
+19533#Touca de Esporo#
+19524#Cospobre de Rocker#
+//*****************************************************
+//------------Aplicar em 2015-07-21--------------------
+//*****************************************************
+18525#Chapéu de Melancia#
+18602#Fatia de Melancia#
+//*****************************************************
+//------------Aplicar em 2015-08-04--------------------
+//*****************************************************
+19937#Chapéu da Fauna e Flora#
+//*****************************************************
+//------------Aplicar em 2015-08-11--------------------
+//*****************************************************
+20239#Cachecol de Lutie#
+20242#Chapéu do Jack Frost#
+//*****************************************************
+//------------Aplicar em 2015-08-18--------------------
+//*****************************************************
+20200#Chapéu de Camponesa#
+//*****************************************************
+//------------Aplicar em 2015-08-25--------------------
+//*****************************************************
+20243#Cartola do Willie Wootan#
+//*****************************************************
+//------------Aplicar em 2015-09-08--------------------
+//*****************************************************
+5329#Venda Legítima da Takius#
+//*****************************************************
+//------------Aplicar em 2015-09-15--------------------
+//*****************************************************
+19657#Quepe do Capitão#
+//*****************************************************
+//------------Aplicar em 2015-09-22--------------------
+//*****************************************************
+19726#Rosa da Sedução#
+//*****************************************************
+//------------Aplicar em 2015-09-30--------------------
+//*****************************************************
+20071#Filhotinho de Worg#
+//*****************************************************
+//------------06/10/2015 Quest de 11 Anos------------
+//*****************************************************
+19038#Coroa do 11º Aniversário do bRO#
+19039#Orelhas do 11º Aniversário do bRO#
+20135#Coroa dos 11 Anos e um Segredo#
+20136#Orelhas dos 11 Anos e um Segredo#
+7199#Moeda do 11º Aniversário#
+22549#Garrafa de Veneno Especial#
+22652#Caixa de Chapéu#
+12609#Caixa de Pedra Antiga#
+12535#Caixa de Fruto de Yggdrasil#
+//*****************************************************
+//------------Aplicar em 2015-10-13--------------------
+//*****************************************************
+19958#Boina da Lutadora de Rua#
+//*****************************************************
+//------------Aplicar em 2015-10-20--------------------
+//*****************************************************
+19656#Chapéu do Bardo Verde#
+//*****************************************************
+//------------2015-10-27 Halloween--------------------
+//*****************************************************
+11592#Doce Misterioso Vermelho#
+11593#Doce Misterioso Azul#
+11594#Doce Misterioso Amarelo#
+11595#Doce Misterioso Verde#
+22067#Sapatos de Bruxa#
+20183#Presença Misteriosa#
+6913#Rosário Sagrado#
+6914#Alma Sombria#
+6915#Alma Capturada#
+22838#Sacola de Doces Misteriosa#
+19824#Chapéu de Druida Maligno#
+19746#Capuz do Coração Gelado#
+20034#Familiar de Estimação#
+//*****************************************************
+//------------2015-11-03 Rei Poring--------------------
+//*****************************************************
+6480#Moeda do Rei Poring#
+18632#Presilha de Poring Amarela#
+18633#Presilha de Poring Rosa#
+18634#Presilha de Poring Verde#
+18635#Presilha de Poring Azul#
+18785#Chapéu do Rei Poring#
+19587#Visual do Rei Poring#
+//*****************************************************
+//------------Aplicar em 2015-11-10--------------------
+//*****************************************************
+19839#Bonequinho de Vanilmirth#
+19835#Bonequinha de Lif#
+19831#Bonequinho de Filir#
+19827#Bonequinho de Amistr#
+//*****************************************************
+//------------Aplicar em 2015-11-17--------------------
+//*****************************************************
+20015#Barba Charmosa#
+19819#Capuz do Mestre Necromante#
+19823#Capuz de Gatinho Fofinho#
+//*****************************************************
+//------------Aplicar em 2015-12-08--------------------
+//*****************************************************
+20070#Capuz de Alpaca Fofinha#
+19702#Gorro Natalino#
+18838#Touca de Angeling#
+//*****************************************************
+//------------Aplicar em 2015-12-15--------------------
+//*****************************************************
+20798#Traje do Ceifeiro#
+25143#Pelúcia de Coelhinho#
+25144#Boneca Fofura Contorcionista#
+25145#Bonequinho Faminto#
+25146#Bonequinha da Jirtas#
+25147#Pelúcia de Coelhinho Darko#
+25148#Boneca Queimada da Baba Yaga#
+25149#Barbe Jogo da Forca#
+25150#Travesseiro Moe da Alice#
+11567#Poção para Aprendizes#
+19785#Pão de Forma Sem Casca#
+18852#Morango Delicioso#
+//*****************************************************
+//------------Aplicar em 2015-01-19--------------------
+//*****************************************************
+20144#Orelhas de Elfo Ancestral#
 //file end

@@ -1466,7 +1466,6 @@
 5024#Chapéu#
 5025#Elmo#
 5026#Chapéu#
-7056#Extrato_de_Pagamento#
 7057#Gjallar#
 7058#Gleipnir#
 7059#Vale-Armazém#
@@ -1769,7 +1768,6 @@
 7196#Ombreira#
 7197#Palha#
 7198#Folha_Gigante#
-7199#Cupom_Misterioso#
 7200#Elástico#
 7201#Tora#
 7202#Pata_de_Besouro#
@@ -6702,7 +6700,7 @@
 //*****************************************************
 //------------Aplicar em 2015-02-10--------------------
 //*****************************************************
-20234#Equipamento Visual#
+20234#MEquipamento Visual#
 6958#Chifre de Carneiro#
 22881#Corda de Caça#
 6956#Carneiro Capturado#
@@ -6738,4 +6736,256 @@
 19986#Equipamento Visual#
 19652#Equipamento Visual#
 19990#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-04-07--------------------
+//*****************************************************
+20725#Capa#
+5785#Equipamento para Cabeça#
+5784#Equipamento para Cabeça#
+18585#Equipamento para Cabeça#
+18587#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2015-05-07--------------------
+//*****************************************************
+19992#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-05-19--------------------
+//*****************************************************
+19959#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-05-26--------------------
+//*****************************************************
+19709#Equipamento Visual#
+//----------WoE  2015-04-06--------------------------------------
+1299#Katar#
+1319#Machado#
+1399#Machado de Duas Mãos#
+1437#Lança#
+1495#Lança#
+1591#Livro#
+1667#Cajado#
+1834#Punho#
+1932#Instrumento Musical#
+1987#Chicote#
+2019#Cajado de Duas Mãos#
+2020#Cajado de Duas Mãos#
+2021#Cajado de Duas Mãos#
+2178#Escudo#
+2179#Escudo#
+2180#Escudo#
+2181#Escudo#
+2182#Escudo#
+2496#Calçados#
+2497#Calçados#
+2498#Calçados#
+2944#Acessório#
+2945#Acessório#
+2946#Acessório#
+6592#Caixote#
+6594#Barra de Bronze Mágica#
+6595#Martelo de Velund#
+6596#Bigorna de Velund#
+6597#Bracelete de Velund#
+6598#Costela de Jormungand#
+6599#Espírito de Hugin#
+6600#Espírito de Munin#
+6601#Cinzel do Gigante#
+6602#Segredo Rúnico#
+6603#Couro de Hraesvelg#
+6604#Essência de Runa#
+6605#Muspellium#
+7056#Extrato de Pagamento#
+11557#Poção Branca TE#
+11558#Poção Branca Compacta TE#
+13083#Adaga#
+13117#Pistola#
+13184#Rifle#
+13185#Metralhadora#
+13186#Espingarda#
+13187#Lança Granadas#
+13317#Shuriken Huuma#
+13439#Espada#
+15062#Vestimenta#
+15063#Vestimenta#
+15064#Vestimenta#
+16025#Maça#
+18118#Arco#
+18732#Chapéu#
+18733#Elmo#
+18734#Chapéu#
+18736#Equipamento para Cabeça#
+20702#Capa#
+20703#Capa#
+20704#Capa#
+21006#Espada de Duas Mãos#
+2950#Acessório#
+2951#Acessório#
+2952#Acessório#
+2953#Acessório#
+2954#Acessório#
+6615#Moeda#
+12873#Caixa de Poções#
+12874#Sangue de Gigante Congelado#
+12875#Núcleo Golem#
+12876#Lágrima de Fada (Atordoamento)#
+12877#Lágrima de Fada (Petrificação)#
+12878#Lágrima de Fada (Congelamento)#
+12879#Lágrima de Fada (Sono)#
+12880#Lágrima de Fada (Maldição)#
+12881#Lágrima de Fada (Silêncio)#
+12882#Lágrima de Fada (Cegueira)#
+12888#Caixa de Suprimentos#
+15067#Vestimenta#
+18755#Chapéu#
+19585#Chapéu#
+20709#Capa#
+22012#Calçados#
+12399#Baú do Tesouro#
+//*****************************************************
+//------------Aplicar em 2015-06-09--------------------
+//*****************************************************
+19991#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-06-16--------------------
+//*****************************************************
+19960#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-06-23--------------------
+//*****************************************************
+19957#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-07-30--------------------
+//*****************************************************
+19544#Equipamento Visual#
+18912#Equipamento para Cabeça#
+18569#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2015-07-14--------------------
+//*****************************************************
+19528#Equipamento Visual#
+19526#Equipamento Visual#
+19533#Equipamento Visual#
+19524#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-07-21--------------------
+//*****************************************************
+18525#Equipamento para Cabeça#
+18602#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2015-08-04--------------------
+//*****************************************************
+19937#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-08-11--------------------
+//*****************************************************
+20239#Equipamento Visual#
+20242#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-08-18--------------------
+//*****************************************************
+20200#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-08-25--------------------
+//*****************************************************
+20243#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-09-08--------------------
+//*****************************************************
+5329#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-09-15--------------------
+//*****************************************************
+19657#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-09-22--------------------
+//*****************************************************
+19726#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-09-30--------------------
+//*****************************************************
+20071#Equipamento Visual#
+//*****************************************************
+//------------06/10/2015 Quest de 11 Anos------------
+//*****************************************************
+19038#Equipamento para Cabeça#
+19039#Orelhas#
+20135#Equipamento Visual#
+20136#Equipamento Visual#
+7199#Moeda do 11º Aniversário#
+22549#Garrafa de Veneno Especial#
+22652#Chapéu Embrulhado#
+12609#Caixa de Pedra Antiga#
+12535#Caixa de Fruto de Yggdrasil#
+//*****************************************************
+//------------Aplicar em 2015-10-13--------------------
+//*****************************************************
+19958#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-10-20--------------------
+//*****************************************************
+19656#Equipamento Visual#
+//*****************************************************
+//------------2015-10-27 Halloween--------------------
+//*****************************************************
+11592#Doce Misterioso Vermelho#
+11593#Doce Misterioso Azul#
+11594#Doce Misterioso Amarelo#
+11595#Doce Misterioso Verde#
+22067#Calçados#
+20183#Equipamento Visual#
+6913#Rosário Sagrado#
+6914#Alma Sombria#
+6915#Alma Capturada#
+22838#Sacola de Doces Misteriosa#
+19824#Equipamento Visual#
+19746#Equipamento Visual#
+20034#Equipamento Visual#
+//*****************************************************
+//------------2015-11-03 Rei Poring--------------------
+//*****************************************************
+6480#Moeda do Rei Poring#
+18632#Equipamento para Cabeça#
+18633#Equipamento para Cabeça#
+18634#Equipamento para Cabeça#
+18635#Equipamento para Cabeça#
+18785#Equipamento para Cabeça#
+19587#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-11-10--------------------
+//*****************************************************
+19839#Equipamento Visual#
+19835#Equipamento Visual#
+19831#Equipamento Visual#
+19827#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-11-10--------------------
+//*****************************************************
+20015#Equipamento Visual#
+19819#Equipamento Visual#
+19823#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-12-08--------------------
+//*****************************************************
+20070#Equipamento Visual#
+19702#Equipamento Visual#
+18838#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-12-15--------------------
+//*****************************************************
+20798#Equipamento Visual#
+25143#Pelúcia de Coelhinho#
+25144#Boneca Fofura Contorcionista#
+25145#Boneca Queimada da Baba Yaga#
+25146#Bonequinha da Jirtas#
+25147#Pelúcia de Coelhinho Darko#
+25148#Bonequinho Faminto#
+25149#Barbe Jogo da Forca#
+25150#Travesseiro Moe da Alice#
+11567#Poção para Aprendizes#
+19785#Equipamento Visual#
+18852#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2015-01-19--------------------
+//*****************************************************
+20144#Equipamento Visual#
 //file end
