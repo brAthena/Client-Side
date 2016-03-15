@@ -25881,4 +25881,21 @@ Peso: ^7777771^000000
 //------------Aplicar em 2015-01-19--------------------
 //*****************************************************
 20144#Item não identificado. Pode ser identificado com uma [Lupa]. #
+18853#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-02-02--------------------
+//*****************************************************
+20306#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20155#Item não identificado. Pode ser identificado com uma [Lupa]. #
+20044#Item não identificado. Pode ser identificado com uma [Lupa]. #
+19874#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2015-02-23--------------------
+//*****************************************************
+22540#
+Peso: 10#
+//*****************************************************
+//------------Aplicar em 2016-03-08--------------------
+//*****************************************************
+20405#Item não identificado. Pode ser identificado com uma [Lupa]. #
 //file end

@@ -2072,10 +2072,10 @@ Convite de grupo está disponível apenas para o líder.#
 Digite o nome do item que você está procurando :#
 You should put the character name.#
 You should put the party name.#
-Guild helper#
-You have no guild joined.#
-Organize a guild#
-Guild name you are creating#
+Guild Suporte#
+Você não tem guilda.#
+Criar uma guilda#
+Digite o nome da guild#
 Guild creation Help word#
 What is guild system#
 You should type guild name.#

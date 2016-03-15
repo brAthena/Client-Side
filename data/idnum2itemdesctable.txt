@@ -3,8 +3,8 @@
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório no NPC Máquina de Promoções, encontrado em Prontera nas coordenadas 141 226.
-Esta promoção está disponível apenas até o dia 19/10, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 20/10. O item obtido na troca com o NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até o dia 14/03, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 15/03. O item obtido na troca com o NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 7558#
@@ -21,6 +21,12 @@ Este ticket desaparecerá durante a manutenção de 05/01/2016. Aproveite e divirta
 ^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
 Peso: ^7777770^000000
 #
+//Ticket dos Gatos
+//7608#
+Um Ticket criado pelo Prefeito Thomas, Ex-almirante de uma embarcação da Corporação da Pata de Gato.
+Trocando-o no NPC de Promoções Especiais (Prontera, coordenadas 141, 226), você tem a chance de conseguir Frutas dos Gatos ou Ira do Deus do Mar.
+^ff0000ATENÇÃO: este Ticket será removido durante a manutenção do dia 02/03/16. O item obtido na troca com a NPC é aleatório! Boa sorte!^000000
+Peso: ^7777771^000000
 //----------------------------------------------------------
 501#
 Poção feita de ervas vermelhas. Recupera ^000088cerca de 45 HP^000000, dependendo da sua vitalidade. ^0000FFDê um clique duplo neste item para recuperar uma quantia de HP.^000000
@@ -18546,7 +18552,7 @@ Classes que utilizam: ^777777Todas^000000
 5312#
 Um chapéu feito de madeira, muito resistente e bem leve. Coberto por tinta preta e adornado com enfeites em prata, ele era símbolo das autoridades nas províncias de Ayothaya. Hoje, se você usá-lo, vão dizer que o carnaval está longe para se fantasiar de abajur...
 ^0000FFFOR +2, aumenta o dano contra monstros Humanoides em 5%.^000000
-Defesa: ^77777710^000000
+Defesa: ^7777775^000000
 Equipa em: ^777777Topo^000000
 Peso: ^77777710^000000
 Classes que utilizam: ^777777Espadachins, Mercadores, Gatunos e suas respectivas evoluções^000000
@@ -39969,7 +39975,7 @@ Nível Necessário: ^77777795^000000
 Classe: ^777777Todas^000000
 #
 2894#
-Se a FOR básica for 120, o poder de ataque aumenta em 30.
+Se a FOR básica for 120 ou mais, o poder de ataque aumenta em 30.
 +5 de FOR, +6% de SP máximo, -6% de HP máximo.
 Tipo: ^777777Acessório^000000
 Defesa: ^7777771^000000
@@ -40584,7 +40590,7 @@ Classe : ^777777Todas as Classes^000000
 #
 18898#
 À primeira vista, ela se parece com a Coroa de Yggdrasil, mas este artefato em especial foi abençoado pela própria Árvore da Vida para carregar sua energia e com isso dar mais poderes a um herói escolhido para enfrentar o Ragnarök.
-Todos os status + 5, HP Máximo + 100, SP Máximo + 50
+Todos os atributos+ 5, HP Máximo + 100, SP Máximo + 50
 Se refinado em 8 ou mais, adiciona 1% de HP Máximo e reduz o tempo de conjuração fixa em 1% a cada refinamento adicional.
 Tipo : ^777777Equipamento para Cabeça^000000 
 Defesa: ^7777776^000000
@@ -46374,13 +46380,13 @@ Classes: ^777777Todas ^000000
 18852#
 Um delicioso morango. Tão delicioso que você preferiu coloca-lo na cabeça ao invés de comer?!
 Todos os atributos +1.
-Se refinado em +12 ou mais, VELATQ +2
-Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777774^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^77777715^000000
-Nível Necessário : ^77777730^000000
-Classes : ^777777Todas^000000
+Se refinado em +12 ou mais, Velocidade de Ataque +2.
+Tipo: ^777777Equipamento para Cabeça ^000000
+Defesa: ^7777774 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777715^000000
+Nível Necessário: ^77777730 ^000000
+Classes: ^777777Todas ^000000
 #
 //*****************************************************
 //------------Aplicar em 2015-01-19--------------------
@@ -46390,6 +46396,78 @@ Com esse acessório, você se sentirá como os elfos ancestrais que dizem ter povoa
 Tipo: ^777777Visual ^000000
 Defesa: ^7777770 ^000000
 Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+18853#
+Esse chapéu era usado por uma garota que vivia perfumada com essência de morango. Isso faz você pensar se também existem chapéus de uvinha, laranjinha e limãozinho...
+Todos os atributos +1. 
+Se refinado em +12 ou mais, Velocidade de Ataque +2.
+Tipo: ^777777Equipamento para Cabeça ^000000
+Defesa: ^7777774 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777715^000000
+Nível Necessário: ^77777730 ^000000
+Classes: ^777777Todas ^000000
+#
+//*****************************************************
+//------------Aplicar em 2015-02-02--------------------
+//*****************************************************
+20306#
+Essa mistura de boné e de chapéu de sultão foi usada pelo famoso gatuno de Arunafeltz, Al Ladino, quando ele se disfarçou de príncipe.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+20155#
+Um chapéu refinado, semelhante ao usado pela aventureira Rosa assim que chegou ao porto de Alberta, logo antes de embarcar no trágico navio Titânico.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+20044#
+Um colorido conjunto de frutas tropicais, perfeito pra você usar e descobrir o que é que a Baiana tem ou se o Tico-tico está comendo seu fubá.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+19874#
+Uma tiara perfeita pra quem gosta de cair na folia ao ritmo das músicas da Ifrity Semgalo, Cláudia Café ou até do Bercos e Marlutti.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+//*****************************************************
+//------------Aplicar em 2015-02-23--------------------
+//*****************************************************
+22540#
+^ff0000Este item não pode ser negociado.^000000
+Transfere o mais recente efeito rúnico para todos do grupo num raio de 7x7.
+Pode ser reusado para transferir mais efeitos rúnicos na ordem que foi recebido pelo Cavaleiro Rúnico.
+Duração: 1 minuto.
+Peso: ^77777710^000000
+#
+//*****************************************************
+//------------Aplicar em 2016-03-08--------------------
+//*****************************************************
+20405#
+Esse cachecol vermelho pertencia ao Algoz Eremes, quando ele ainda era vivo. Vítima dos bizarros experimentos da Corporação Rekenber, o espírito de Eremes é hoje um dos grandes desafios que assombram o Laboratório de Somatologia.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
